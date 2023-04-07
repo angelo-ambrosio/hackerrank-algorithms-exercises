@@ -21,4 +21,4 @@ function staircase(n) {
         console.log(stair)
 }
 
-staircase(4)
+staircase(60)
