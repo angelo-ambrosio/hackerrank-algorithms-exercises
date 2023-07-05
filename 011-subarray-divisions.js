@@ -1,6 +1,5 @@
 function birthday(s, d, m) {
     // Write your code here
-    
     let possibilities = 0
     let groupOfArrays = []
 
