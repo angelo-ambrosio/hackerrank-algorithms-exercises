@@ -6,7 +6,6 @@ function bonAppetit(bill, k, b) {
     }
     
     let anaHasToPay = (totalBill - k) / 2;
-    let brianHasToPay = totalBill - anaHasToPay;
 
     if (anaHasToPay == b){
         console.log("Bon Appetit");
