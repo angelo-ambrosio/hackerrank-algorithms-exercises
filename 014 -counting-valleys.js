@@ -31,7 +31,7 @@ function countingValleys(steps, path) {
     console.log(newPath);
     console.log(valleys);*/
 
-    //AFTER WATHING AN YOUTUBE EXPLANATION
+    //AFTER WATHING AN YOUTUBE EXPLANATION :(
     let valleys = 0;
     let elevation = 0;
 
