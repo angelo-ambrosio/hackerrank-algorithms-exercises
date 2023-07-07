@@ -1,18 +1,4 @@
-/*
-PASSO A PASSO PARA RESOLVER O PROBLEMA
-
-1 - Saber quantos elementos diferentes tenho no array
-  * Converter o array para um Set - new Set([...array])
-
-2 - Contar a quantidade de pares em cada elemento desprezando um possível resto 1
-
-3 - Somar a quantidade de pares.
-*/
-
-
 //MY TRIAL - worked in all cases, excpet one that has only one value for all array elements
-
-
 function sockMerchant(n, ar) {
   // Write your code here
   let individualColors = new Set([...ar]);
@@ -43,7 +29,7 @@ function sockMerchant(n, ar) {
 sockMerchant(9, [10, 20, 20, 10, 10, 30, 50, 10, 20]);
 
 
-//YOUTUBE SOLUTION
+//NEW SOLUTION ALSO DONE BY ME :)
 const array42 = []
 
 function createArray(){
